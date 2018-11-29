@@ -14,7 +14,7 @@ import org.apache.storm.tuple.Values;
  * 
  * Title: TestBolt Description: 对单词进行分割 Version:1.0.0
  * 
- * @author pancm
+ * @author admin
  * @date 2018年3月16日
  */
 public class TestBolt extends BaseRichBolt {
